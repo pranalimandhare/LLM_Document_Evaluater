@@ -1,0 +1,38 @@
+Title: Sales Conversation Summary – Suggesting Saving Plans
+
+Customer Name: Anita  
+Sales Representative: Rahul  
+Topic: Exploring suitable saving plans for future goals
+
+Customer Needs Identified:
+- Save for daughter’s education (goal-based)
+- Maintain an emergency fund (liquidity and accessibility)
+
+Plans Suggested:
+1. **Flexi Savings Plan**
+   - Purpose: Emergency use
+   - Features: Flexible deposits/withdrawals, ~4% annual interest
+   - Accessibility: High (no lock-in)
+
+2. **Goal-Based Recurring Deposit (RD)**
+   - Purpose: Education savings
+   - Features: Monthly fixed deposit, 7.5% interest
+   - Tenure: Customizable
+   - Starting Amount: ₹1,000/month
+
+Customer Response:
+- Found the suggestions reasonable
+- Interested in starting both plans
+- Requested more details via email
+
+Sales Rep Behavior:
+- Asked open-ended questions to understand customer goals
+- Matched products appropriately with needs
+- Clearly explained returns and flexibility
+- Professional, helpful, and clear communication
+
+Outcome:
+- Customer committed to starting both plans
+- Follow-up action initiated (sending brochures, onboarding help)
+
+
