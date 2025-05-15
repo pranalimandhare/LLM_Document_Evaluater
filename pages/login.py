@@ -14,7 +14,7 @@ def checkCredentials(username, password):
         conn = mysql.connector.connect(
             host="localhost",
             user="root",
-            password="pranali123",
+            password="123",
             database="users",
             port=3306 
         )
