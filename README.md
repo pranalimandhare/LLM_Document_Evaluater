@@ -11,3 +11,24 @@ document is evaluated by the llm model directly.
 Authentication is checked with Mysql and bycrpt for user login.
 
 Document privacy for personal information are replaced using en_core_web_sm from nlp.
+
+
+Dependencies to install:
+streamlit
+transformers
+torch
+spacy
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu           # or faiss-gpu depending on your hardware
+PyMuPDF             # for PyMuPDFLoader
+mysql-connector-python
+bcrypt
+
+Run the app with 
+streamlit run app.py
+
+Login is open but can check code with following credentials:
+Username: test1
+password: secure123
